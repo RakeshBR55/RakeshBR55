@@ -34,7 +34,7 @@ But enough about me – let's talk about you! What amazing ideas do you have in 
 <br/>  
 
 
-## Rapidfire  
+## Some Quick facts about me..  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently finishing up my bachelors degree  
