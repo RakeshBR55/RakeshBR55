@@ -19,7 +19,6 @@ Data Engineer with 2.5+ years of experience building high-performance data platf
 
 Currently working at **ADA Global** in Bengaluru, where I architect data intelligence products processing 120-150GB daily, build geospatial analytics engines, and develop LLM-powered RAG chatbots using Snowflake's native AI stack.
 
-**🎓 Background:** Electronics & Communication Engineering (CGPA: 8.9)  
 **📍 Location:** Bangalore, India  
 **📧 Contact:** rakesh.br.datascientist@gmail.com
 
